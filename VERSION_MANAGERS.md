@@ -15,7 +15,7 @@ For example, if `/projects/my_project` doesn't have `.ruby-version`, `chruby` wo
 
 ## Mise
 
-Ensure mise is up-to-date by running `mise self-update`.
+If you encounter an error, ensure Mise is up-to-date: https://mise.jdx.dev/faq.html#mise-is-failing-or-not-working-right
 
 ## Custom activation
 
